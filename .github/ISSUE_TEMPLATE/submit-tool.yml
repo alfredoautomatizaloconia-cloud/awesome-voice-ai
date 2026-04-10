@@ -1,0 +1,53 @@
+name: "Submit a Voice AI Tool"
+description: "Suggest a tool to add to the awesome-voice-ai list"
+title: "[Submit]: "
+labels: ["new-tool", "triage"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool Name
+      placeholder: "e.g., ElevenLabs"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL (GitHub repo or website)
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Voice Agent Platforms
+        - Text-to-Speech
+        - Speech-to-Text
+        - Voice Cloning
+        - Frameworks & SDKs
+        - Telephony Infrastructure
+        - Voice Analytics
+        - Voice Commerce
+        - Voice Platforms & Assistants
+        - MCP Servers for Voice
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Open Source
+        - Commercial
+        - Freemium
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: "Brief description of what this tool does"
+    validations:
+      required: true

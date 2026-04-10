@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1b2838;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00b4d8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#90e0ef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" rx="16" fill="url(#bg)"/>
+  <rect x="0" y="190" width="800" height="10" fill="url(#accent)"/>
+  <circle cx="100" cy="100" r="35" fill="none" stroke="#00b4d8" stroke-width="2.5"/>
+  <circle cx="100" cy="100" r="22" fill="none" stroke="#90e0ef" stroke-width="2"/>
+  <circle cx="100" cy="100" r="10" fill="#00b4d8"/>
+  <path d="M 65 100 Q 58 75 65 50" fill="none" stroke="#00b4d8" stroke-width="2" opacity="0.6"/>
+  <path d="M 55 100 Q 46 68 55 36" fill="none" stroke="#00b4d8" stroke-width="2" opacity="0.3"/>
+  <path d="M 135 100 Q 142 75 135 50" fill="none" stroke="#00b4d8" stroke-width="2" opacity="0.6"/>
+  <path d="M 145 100 Q 154 68 145 36" fill="none" stroke="#00b4d8" stroke-width="2" opacity="0.3"/>
+  <text x="180" y="80" font-family="system-ui, sans-serif" font-size="40" font-weight="700" fill="#FFFFFF">Awesome Voice AI</text>
+  <text x="180" y="115" font-family="system-ui, sans-serif" font-size="17" fill="#90e0ef">Curated tools for voice agents, TTS, STT, cloning &amp; more</text>
+  <rect x="180" y="135" width="110" height="26" rx="13" fill="#00b4d8" opacity="0.9"/>
+  <text x="235" y="153" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#0d1b2a" text-anchor="middle">150+ Tools</text>
+  <rect x="300" y="135" width="110" height="26" rx="13" fill="none" stroke="#90e0ef" stroke-width="1.5"/>
+  <text x="355" y="153" font-family="system-ui, sans-serif" font-size="12" font-weight="500" fill="#90e0ef" text-anchor="middle">10 Categories</text>
+</svg>
