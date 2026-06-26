@@ -56,6 +56,7 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[Bland AI](https://www.bland.ai/)** | Commercial | High-volume outbound voice agent platform | Purpose-built for sales campaigns, enterprise telephony |
 | **[LiveKit Agents](https://github.com/livekit/agents)** | Open Source | Real-time voice agent framework with WebRTC | Fully open source, plugin architecture, MCP support |
 | **[Synthflow](https://synthflow.ai/)** | Commercial | No-code voice agent builder | White-label, 200+ integrations, appointment booking |
+| **[Hermes](https://www.buildwithhermes.com/)** | Commercial | White-label voice agent platform built for agencies | Built-in CRM, campaign orchestration, transparent usage billing, from $149/mo, 80%+ margins per client |
 | **[Cognigy](https://www.cognigy.com/)** | Enterprise | Enterprise conversational AI platform | Omnichannel, contact center integration, 100+ languages |
 | **[Lindy AI](https://www.lindy.ai/)** | Commercial | AI assistant with voice agent capabilities | Multi-step workflows, triggers, CRM integration |
 | **[Air AI](https://www.air.ai/)** | Commercial | Autonomous voice agent for sales and customer service | 40+ minute conversations, calendar booking |
